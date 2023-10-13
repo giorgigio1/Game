@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/node": "^20.8.4",
+    "console-table-printer": "^2.11.2",
+    "tsx": "^3.13.0",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "game": "tsx game.ts",
+    "game2": "tsx game2.ts"
+  }
+}
